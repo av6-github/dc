@@ -1,5 +1,0 @@
-task_id,thread_name,burst_ms,priority,status
-T1,Worker_1,200,HIGH,PENDING
-T2,Worker_2,100,MEDIUM,PENDING
-T3,Worker_3,150,LOW,PENDING
-T4,Worker_4,120,HIGH,PENDING
