@@ -1,0 +1,7 @@
+job_id,compute_units,assigned_worker,status
+J101,35,Worker_1,ASSIGNED
+J102,20,Worker_2,ASSIGNED
+J103,50,Worker_3,ASSIGNED
+J104,15,Worker_2,ASSIGNED
+J105,40,Worker_1,ASSIGNED
+J106,25,Worker_2,ASSIGNED

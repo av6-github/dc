@@ -1,0 +1,7 @@
+event_id,process_id,event_type,message_to,initial_clock
+E1,P1,SEND,P2,0
+E2,P1,INTERNAL,-,0
+E3,P2,RECEIVE,P1,0
+E4,P2,SEND,P3,0
+E5,P3,RECEIVE,P2,0
+E6,P3,INTERNAL,-,0
